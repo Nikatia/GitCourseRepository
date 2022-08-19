@@ -1,0 +1,2 @@
+# GitCourseRepository
+Kurssin ensimmäinen etärepositorio
