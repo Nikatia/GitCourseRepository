@@ -7,3 +7,7 @@ Tekoaly 2
 Tekoaly 3
 
 Käytetään toteutettua nettiyhteyttä.
+
+void TulostetaanHeiMaailma() {
+	System.out.println("Hei, maailma!");
+} 
