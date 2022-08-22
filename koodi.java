@@ -8,6 +8,9 @@ Tekoaly 3
 
 Käytetään toteutettua nettiyhteyttä.
 
+void TulostetaanHeiMaailma() {
+  System.out.println("Hei, maailma!");
+} 
 void TulostetaanHeiSuomi() {
-  system.out.println("Hei, Suomi!");
+  System.out.println("Hei, Suomi!");
 }
